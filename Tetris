@@ -1,0 +1,7 @@
+cd "C:\Users\nsimoes\OneDrive - Grupo ETE\Ambiente de Trabalho\TetrisForAll_repo"
+git init
+git remote add origin https://github.com/Nuno-Simoes/TetrisForAll.git
+git add .
+git commit -m "Primeira versão - scaffold completo"
+git branch -M main
+git push -u origin main
